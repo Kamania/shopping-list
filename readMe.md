@@ -37,10 +37,9 @@ Contributions are welcome! If you'd like to contribute to the development of thi
 4. Push your branch to your fork.
 5. Create a pull request to the main repository.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
 
 ## Contact
-If you have any questions or suggestions, feel free to contact us at [your-email@example.com].
+If you have any questions or suggestions, feel free to contact us at [kamaniajoseph@gmail.com].
 
 Happy shopping!
