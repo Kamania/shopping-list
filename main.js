@@ -26,5 +26,14 @@ function createIcon(classes) {
     return icon;
 }
 
+function removeItem(itemNumber) {
+    const ul = document.querySelector('ul');
+    const li = document.querySelector(`li:nth-child(${itemNumber})`);
+
+    ul.removeChild(li);
+}
+
+//removeItem(2);
+
 createItem('Eggs');
 createItem('Cheese');
